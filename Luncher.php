@@ -1,4 +1,4 @@
-<?php
+315567928:AAGaQgFqeQ516F3qv38Y5Ikp_yYOpzz6qYk
 /*
 سورس اصلی ربات پی وی رسان
 @PvResanBot
